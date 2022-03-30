@@ -5,7 +5,7 @@ Arquivos utilizados no trabalho de conclusão de curso de Pós-Graduação em ci
 Foram utilizados 3 *notebooks* para desenvolver esse trabalho com os seguintes propósitos:
 - Primeiro: alterar as informações dos arquivos com os conjuntos de dados com o intuito de remover ou alterar as informações sigilosas dos contribuintes e exportar esses arquivos de forma a permitir a reprodução dos códigos nos dois notebooks seguintes. 
 - Segundo: foram feitas as junções dos conjuntos de dados e análises exploratórias.
-- Terceiro: serviu para construir os modelos de aprendizado de máquina e extrair os resultados.
+- Terceiro: construção de modelos de aprendizado de máquina e extração dos resultados.
 
 ## Arquivos com conjuntos de dados
 São disponibilizados 4 arquivos no formato ".csv" contendo os dados utilizados nos segundo *notebook*:
